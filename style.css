@@ -1,0 +1,21 @@
+div {
+    border: black 5px solid;
+    margin: 25px;
+    color: Blue;
+    font-size: 20px;
+}
+/*CSS = Cascading Style Sheets, lets you style HTML */
+h1 {
+    background-color: orange;
+    color: white;
+    margin: 0px;
+    padding: 10px;
+}
+
+#john{
+  background-color: blue;
+  font-family: monospace;
+  
+}
+
+#Olurotimi{background-color:Red;}
